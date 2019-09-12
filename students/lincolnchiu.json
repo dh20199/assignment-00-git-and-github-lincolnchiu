@@ -1,14 +1,14 @@
-{
+  {
     "firstName": "Lincoln",
     "lastName": "Chiu",
-    "picture": "images/lincolnchiu.png",
+    "nickName": "Lincoln",
+    "privateName": false,
+    "picture": "images/lincolnchiu.jpg",
     "privatePicture": false,
     "email": "lincoln.chiu@mail.utoronto.ca",
-    "privateEmail": true,
+    "privateEmail": false,
     "github": "lincolnchiu",
     "privateGithub": false,
-    "superpower" : "jinchūriki, ninjutsu",
-    "academicinterests": "media"
-  
+    "superpower" : "late night cramming",
+    "academicinterests": "I'm supposed to have interests?"
   }
-  
